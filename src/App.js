@@ -124,6 +124,7 @@ class App extends Component {
                 onChange={this.changeInput}
                 value={searchInput}
                 className="search-input"
+                placeholder="Search"
               />
               <BiSearch className="icon" />
             </div>
